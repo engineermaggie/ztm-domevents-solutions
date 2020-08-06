@@ -1,5 +1,7 @@
 # ztm-domevents-solutions
 
+Topic: DOM
+
 Exercise: Shopping List
 
 Tasks:
